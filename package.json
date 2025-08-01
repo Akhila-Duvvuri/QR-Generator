@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "inquirer": "^12.9.0",
+    "qr-image": "^3.2.0"
+  },
+  "name": "qr-generator-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "D.V.Akhila",
+  "license": "ISC",
+  "description": "This project genrates a QR code for a given URL using the qr-image package and prompts the user for input using inquirer"
+}
